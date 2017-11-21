@@ -34,8 +34,15 @@ h3 {color: black;
 }
 
 
+li.ul1{ list-style-type: none; }
+
+
+p {text-align: center;
+
+
 
 div.par {text-align: center;
+
   font-family: verdana
 }
 ul.right {text-align: right;
