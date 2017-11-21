@@ -44,8 +44,6 @@ ul.right {text-align: right;
 ul.left {text-align: left;
   font-family: verdana
 }
-<<<<<<< HEAD
-=======
 
 
 .footer {
@@ -84,6 +82,7 @@ ul.left {text-align: left;
   padding-top: 5px;
   padding: 5px;
 }
+<<<<<<< HEAD
 
 #footlink {
   color: grey;
@@ -93,3 +92,5 @@ ul.left {text-align: left;
 #footlink:hover {
   color: #58874D;
 }
+=======
+>>>>>>> 84f3df07c93dce09c5af2505ee65c0810fe04d04
