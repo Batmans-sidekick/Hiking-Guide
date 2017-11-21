@@ -44,3 +44,44 @@ ul.right {text-align: right;
 ul.left {text-align: left;
   font-family: verdana
 }
+<<<<<<< HEAD
+=======
+
+
+.footer {
+    text-align: center;
+    padding-bottom: 30px;
+    font-family: 'Montserrat' sans-serif;
+    font-size: 20px;
+}
+
+.resa {
+    font-family: 'Rasa', serif;
+    color: #58874D
+}
+
+.quicksand-lg {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+}
+
+.quicksand-m {
+      font-family: 'Quicksand', sans-serif;
+      font-size: 16px;
+  }
+
+.footerhead {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 20px;
+  color: #58874D;
+
+}
+
+.pfoot {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 16px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding: 5px;
+}
+>>>>>>> 9cb5b677eca87b66e26922c145da789d3c20d0a8
