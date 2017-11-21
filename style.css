@@ -84,4 +84,12 @@ ul.left {text-align: left;
   padding-top: 5px;
   padding: 5px;
 }
->>>>>>> 9cb5b677eca87b66e26922c145da789d3c20d0a8
+
+#footlink {
+  color: grey;
+  
+}
+
+#footlink:hover {
+  color: #58874D;
+}
