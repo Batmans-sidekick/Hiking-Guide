@@ -44,10 +44,10 @@ h3 {color: black;
   font-family:verdana
 }
 
-img.resize {width: 25%;
-   height: auto;
- }
-div.par {text-align: center;
+li.ul1{ list-style-type: none; }
+
+
+p {text-align: center;
   font-family: verdana
 }
 ul.right {text-align: right;
