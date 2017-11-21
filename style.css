@@ -1,30 +1,19 @@
-background {
-    width: 100%;
-    height: 50%;
-    position: fixed;
-    left: 0px;
-    top: 0px;
-    z-index: -1; /* Ensure div tag stays behind content; -999 might work, too. */
+
+.jumbotron {
+  padding-top: 90px;
+  min-height: 600px;
+  margin-bottom: 0;
+  background-image: url('mayo.jpg');
+  background-size: cover;
+
 }
 
-.stretch {
-    width:100%;
-}
-
-h1 {font-size: 20px;
-    font-color: red;
+h1 {
+  font-size: 20px;
+    font-color: white;
     text-align: center;
-    background-color: green;
     background-size: cover;
 }
-
-  page-header {
-     height: 130px;
-     margin: 5px 5px 0 5px;
-     border: #0
-     border-radius: 15px;
-     background: url(howthwalk.jpg);
-   }
 
  img {
      background-size: 100%;
@@ -44,9 +33,8 @@ h3 {color: black;
   font-family:verdana
 }
 
-img.resize {width: 25%;
-   height: auto;
- }
+
+
 div.par {text-align: center;
   font-family: verdana
 }
@@ -56,6 +44,8 @@ ul.right {text-align: right;
 ul.left {text-align: left;
   font-family: verdana
 }
+<<<<<<< HEAD
+=======
 
 
 .footer {
@@ -94,3 +84,4 @@ ul.left {text-align: left;
   padding-top: 5px;
   padding: 5px;
 }
+>>>>>>> 9cb5b677eca87b66e26922c145da789d3c20d0a8
