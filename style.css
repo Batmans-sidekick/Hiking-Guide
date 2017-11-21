@@ -67,4 +67,30 @@ ul.left {text-align: left;
 
 .resa {
     font-family: 'Rasa', serif;
+    color: #58874D
+}
+
+.quicksand-lg {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+}
+
+.quicksand-m {
+      font-family: 'Quicksand', sans-serif;
+      font-size: 16px;
+  }
+
+.footerhead {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 20px;
+  color: #58874D;
+
+}
+
+.pfoot {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 16px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding: 5px;
 }
