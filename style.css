@@ -26,11 +26,13 @@ h2 {color: black;
    font-size: 30px;
    text-align: center;
     font-family: verdana;
+    padding:30px;
   }
 h3 {color: black;
   font-size: 22px;
   text-align: center;
   font-family:verdana
+  padding: 22px;
 }
 
 
@@ -38,6 +40,8 @@ li.ul1{ list-style-type: none; }
 
 
 p {text-align: center;
+   padding:30px;
+}
 
 
 
