@@ -26,11 +26,13 @@ h2 {color: black;
    font-size: 30px;
    text-align: center;
     font-family: verdana;
+    padding:30px;
   }
 h3 {color: black;
   font-size: 22px;
   text-align: center;
   font-family:verdana
+  padding: 22px;
 }
 
 
@@ -38,6 +40,8 @@ li.ul1{ list-style-type: none; }
 
 
 p {text-align: center;
+   padding:30px;
+}
 
 
 
@@ -79,7 +83,6 @@ ul.left {text-align: left;
   font-family: 'Quicksand', sans-serif;
   font-size: 20px;
   color: #58874D;
-
 }
 
 .pfoot {
@@ -89,15 +92,12 @@ ul.left {text-align: left;
   padding-top: 5px;
   padding: 5px;
 }
-<<<<<<< HEAD
 
 #footlink {
   color: grey;
-  
+
 }
 
 #footlink:hover {
   color: #58874D;
 }
-=======
->>>>>>> 84f3df07c93dce09c5af2505ee65c0810fe04d04
