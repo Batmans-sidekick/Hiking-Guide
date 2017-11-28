@@ -26,22 +26,25 @@ h1 {
 h2 {color: black;
    font-size: 30px;
    text-align: center;
-  font-family: verdana;
+  font-family: 'Quicksand', sans-serif;
     padding:30px;
   }
 h3 {color: black;
   font-size: 22px;
   text-align: center;
-  font-family: Helvetica;
+  font-family: 'Quicksand', sans-serif;
   padding: 22px;
 }
 
 
-li.ul1{ list-style-type: none; }
+li.ul1{ list-style-type: none;
+  font-family: 'Quicksand', sans-serif;
+}
 
 
 p {text-align: center;
    padding:30px;
+   font-family: 'Quicksand', sans-serif;
 }
 
 
