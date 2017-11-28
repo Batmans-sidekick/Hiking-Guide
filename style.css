@@ -66,12 +66,14 @@ ul.left {text-align: left;
 
 .resa {
     font-family: 'Rasa', serif;
-    color: #58874D
+    color: #58874D;
+    padding: 5px;
 }
 
 .quicksand-lg {
     font-family: 'Quicksand', sans-serif;
     font-size: 20px;
+    padding: 5px;
 }
 
 .quicksand-m {
@@ -100,4 +102,14 @@ ul.left {text-align: left;
 
 #footlink:hover {
   color: #58874D;
+}
+
+#provlink {
+    color: #C6C6C6;
+    text-decoration: none;
+}
+
+#provlink:hover {
+    color: #C6C6C6;
+    text-decoration: underline;
 }
