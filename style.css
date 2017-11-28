@@ -20,7 +20,9 @@ h1 {
      max-height: 100%;
    }
 
-
+hr {color: black;
+  font-weight: bold;
+}
 
 h2 {color: black;
    font-size: 30px;
