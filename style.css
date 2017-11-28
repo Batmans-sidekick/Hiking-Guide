@@ -6,7 +6,13 @@
   background-image: url('mayo.jpg');
   background-size: cover;
   text-align: left;
+  background-color: #F2F4F4;
 }
+
+body {
+    background-color: #F2F4F4;
+}
+
 
 h1 {
   font-size: 20px;
