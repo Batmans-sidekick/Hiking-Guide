@@ -35,8 +35,8 @@ hr {
     margin-right: auto;
     border-style: inset;
     border-width: 3px;
-    border-color: #000000;
-    background color: black;
+    border-color: red;
+    background color: red;
 }
 
 h2 {color: black;
@@ -78,6 +78,9 @@ ul.left {text-align: left;
   font-family: 'Quicksand', sans-serif;
 }
 
+#line {
+    border-bottom: 1px solid black;
+}
 
 .footer {
     text-align: center;
