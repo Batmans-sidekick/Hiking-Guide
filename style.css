@@ -5,7 +5,7 @@
   margin-bottom: 0;
   background-image: url('mayo.jpg');
   background-size: cover;
-
+  text-align: left;
 }
 
 h1 {
@@ -13,6 +13,7 @@ h1 {
     font-color: green;
     text-align: center;
     background-size: cover;
+
 }
 
  img {
@@ -20,40 +21,47 @@ h1 {
      max-height: 100%;
    }
 
-
+hr {color: black;
+  font-weight: bold;
+}
 
 h2 {color: black;
    font-size: 30px;
    text-align: center;
-   font-family: Helvetica;
+  font-family: 'Quicksand', sans-serif;
     padding:30px;
   }
+
 h3 {color: black;
   font-size: 22px;
   text-align: center;
-  font-family: Helvetica;
+  font-family: 'Quicksand', sans-serif;
   padding: 22px;
 }
 
 
-li.ul1{ list-style-type: none; }
+li.ul1{ list-style-type: none;
+  font-family: 'Quicksand', sans-serif;
+}
 
 
 p {text-align: center;
    padding:30px;
+   font-family: 'Quicksand', sans-serif;
 }
 
 
 
 div.par {text-align: center;
+  font-family: 'Quicksand', sans-serif;
 
-  font-family: verdana
+
 }
 ul.right {text-align: right;
-  font-family: verdana
+  font-family: 'Quicksand', sans-serif;
 }
 ul.left {text-align: left;
-  font-family: verdana
+  font-family: 'Quicksand', sans-serif;
 }
 
 
